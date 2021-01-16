@@ -6,4 +6,6 @@ window.onload = function() {
                 alert('测试页面')
         })
 
+        console.log('这是dev分支的测试代码')
+
 }
