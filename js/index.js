@@ -1,5 +1,7 @@
 (function(){
-  // �汾v1
-  let version = 1.0;
-  console.log(123);
+  console.log('功能开发80%');
+
+  let finish = true;
+
+  console.log(finish)
 })()
